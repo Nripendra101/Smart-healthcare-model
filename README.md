@@ -1,1 +1,0 @@
-# Smart-healthcare-model
